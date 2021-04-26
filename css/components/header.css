@@ -34,12 +34,12 @@
 .social__link--fb {
     width: 11px;
     height: 20px;
-    background-image: url(img/svg/fb.svg);
+    background-image: url(../img/svg/fb.svg);
 }
 .social__link--tw {
     width: 20px;
     height: 17px;
-    background-image: url(img/svg/twitter.svg);
+    background-image: url(../img/svg/twitter.svg);
 }
 
 .logo {
